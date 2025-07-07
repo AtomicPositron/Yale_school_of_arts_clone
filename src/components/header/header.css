@@ -1,0 +1,11 @@
+.body{
+    margin: 0;
+    height: 66rem;
+    background-image: url("src/assets/Group 1.png");
+    background-repeat: no-repeat;
+    
+}
+.dim-backdrop{
+    background: linear-gradient(rgba(0, 0, 0, 0.486) 50%, rgba(0, 0, 0, 0));
+    height: inherit;
+}
