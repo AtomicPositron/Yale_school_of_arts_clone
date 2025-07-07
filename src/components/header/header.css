@@ -1,7 +1,7 @@
 .body{
     margin: 0;
     height: 66rem;
-    background-image: url("src/assets/Group 1.png");
+    background-image: url("/assets/background.png");
     background-repeat: no-repeat;
     
 }

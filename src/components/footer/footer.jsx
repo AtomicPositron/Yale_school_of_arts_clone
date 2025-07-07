@@ -3,7 +3,7 @@ import "./footer.css";
 function Footer() {
   return (
     <div className="mt-50 footer flex flex-col gap-10 text-center justify-center align-center">
-      <div className="flex flex-warp gap-6 mb-5 flex-row justify-center">
+      <div className="flex flex-wrap gap-8 mb-5 flex-row justify-center">
         <span><a href="https://www.art.yale.edu/about/support-the-school">Support the School</a></span>
         <span><a href="https://www.art.yale.edu/about/visiting">Visiting</a></span>
         <span><a href="https://www.instagram.com/yaleschoolofart/">Instagram</a></span>
